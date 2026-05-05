@@ -1,0 +1,7 @@
+if x > 5:
+    y = 10
+    z = 20
+
+if (estado == 1):
+    activo = 0
+
