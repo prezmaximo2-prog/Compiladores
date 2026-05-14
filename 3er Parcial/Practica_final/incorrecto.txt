@@ -1,0 +1,3 @@
+INSERT personal VALUES ('Ana', 'Vespertino');
+UPDATE sucursales activo = 'NO' WHERE ventas < 1000;
+DELETE FROM evaluaciones WHERE;

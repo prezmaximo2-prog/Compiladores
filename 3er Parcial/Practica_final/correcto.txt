@@ -1,0 +1,4 @@
+SELECT nombre, stock FROM inventario WHERE id = 5;
+INSERT INTO personal (nombre, turno) VALUES ('Juan', 'Matutino');
+UPDATE sucursales SET activo = 'NO' WHERE ventas < 1000;
+DELETE FROM evaluaciones WHERE dificultad > 8;
